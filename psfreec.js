@@ -762,4 +762,4 @@ async function run() {
     window.p = prim;
     run_hax();    
 }
-run();
+setTimeout(run, 1500);
